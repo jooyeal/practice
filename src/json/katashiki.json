@@ -1,0 +1,30 @@
+[
+  {
+    "code": "1",
+    "kikishurui": "ガス絶縁開閉装置",
+    "sousakikou": "油圧",
+    "katashiki": "ABC-01",
+    "gas": "0.4"
+  },
+  {
+    "code": "2",
+    "kikishurui": "ガス遮断器(単体)",
+    "sousakikou": "油圧",
+    "katashiki": "ABC-03",
+    "gas": "0.4"
+  },
+  {
+    "code": "3",
+    "kikishurui": "電圧調整器",
+    "sousakikou": "ばね",
+    "katashiki": "CBA-03",
+    "gas": "0.5"
+  },
+  {
+    "code": "4",
+    "kikishurui": "ガス遮断器(GIS)",
+    "sousakikou": "ばね",
+    "katashiki": "CBA-06",
+    "gas": "0.5"
+  }
+]

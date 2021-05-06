@@ -1,0 +1,131 @@
+[
+  {
+    "no": 1,
+    "code": "DQ001",
+    "devce_type": "漏れ箇所検査",
+    "depth": 0,
+    "input_type": 0,
+    "reference": "a",
+    "al_list": [{}]
+  },
+  {
+    "no": 2,
+    "code": "DQ002",
+    "devce_type": "リーク検知・石鹸水",
+    "depth": 1,
+    "input_type": 1,
+    "reference": "a",
+    "al_list": [
+      {
+        "no": 1,
+        "al_code": "AL001",
+        "answer": "あり"
+      },
+      {
+        "no": 2,
+        "al_code": "AL002",
+        "answer": "なし"
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "code": "DQ003",
+    "devce_type": "バルブ状態確認",
+    "depth": 1,
+    "input_type": 1,
+    "reference": "a",
+    "al_list": [
+      {
+        "no": 1,
+        "al_code": "AL001",
+        "answer": "正常"
+      },
+      {
+        "no": 2,
+        "al_code": "AL002",
+        "answer": "異常"
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "code": "DQ004",
+    "devce_type": "計器の指示値",
+    "depth": 1,
+    "input_type": 1,
+    "reference": "a",
+    "al_list": [
+      {
+        "no": 1,
+        "al_code": "AL001",
+        "answer": "蓄勢"
+      },
+      {
+        "no": 2,
+        "al_code": "AL002",
+        "answer": "放勢"
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "code": "DQ005",
+    "devce_type": "電商品、警報回路の調査",
+    "depth": 1,
+    "input_type": 1,
+    "reference": "a",
+    "al_list": [
+      {
+        "no": 1,
+        "al_code": "AL001",
+        "answer": "12時位置"
+      },
+      {
+        "no": 2,
+        "al_code": "AL002",
+        "answer": "それ以外"
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "code": "DQ005",
+    "devce_type": "電商品、警報回路の調査",
+    "depth": 1,
+    "input_type": 1,
+    "reference": "a",
+    "al_list": [
+      {
+        "no": 1,
+        "al_code": "AL001",
+        "answer": "12時位置"
+      },
+      {
+        "no": 2,
+        "al_code": "AL002",
+        "answer": "それ以外"
+      }
+    ]
+  },
+  {
+    "no": 6,
+    "code": "DQ005",
+    "devce_type": "電商品、警報回路の調査",
+    "depth": 1,
+    "input_type": 1,
+    "reference": "a",
+    "al_list": [
+      {
+        "no": 1,
+        "al_code": "AL001",
+        "answer": "12時位置"
+      },
+      {
+        "no": 2,
+        "al_code": "AL002",
+        "answer": "それ以外"
+      }
+    ]
+  }
+]
